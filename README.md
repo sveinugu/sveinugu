@@ -1,11 +1,3 @@
-
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/fairtracks/fairtracks.net/master/assets/images/team/sveinung-gundersen-big.png" alt="Profile photo of Sveinung Gundersen" height="150" width="150">
-    </td>
-    <td>
-    
 **Name:** [Sveinung Gundersen](https://www.mn.uio.no/ifi/english/people/adm/sveinugu/index.html) *(NB: University profile page not updated, except for publication list)*
 
 **Job title:** Senior Developer
@@ -19,9 +11,7 @@
 **Education:**
 - Master of Technology in Computer Science (from [Norwegian University of Science and Technology](https://www.ntnu.edu/))
 - PhD in Bioinformatics (from [University of Oslo](https://www.uio.no/english/index.html))
-    </td>
-  </tr>
-</table>
+
 
 ### About me
 
