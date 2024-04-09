@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/fairtracks/fairtracks.net/master/assets/images/team/sveinung-gundersen-big.png" alt="Profile photo of Sveinung Gundersen" height="200" width="200">
+      <img src="https://raw.githubusercontent.com/fairtracks/fairtracks.net/master/assets/images/team/sveinung-gundersen-big.png" alt="Profile photo of Sveinung Gundersen" height="150" width="150">
     </td>
     <td>
     
